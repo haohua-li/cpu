@@ -1,5 +1,9 @@
 # cpu
 
+[超标量处理器设计 (豆瓣) (douban.com)](https://book.douban.com/subject/26293546/)
+
+
+
 我是个大废物。又老又废。很多初中生就开始做 CPU 了。
 
 <img src="image-20220318200739739.png" alt="image-20220318200739739" style="zoom: 33%;" />
